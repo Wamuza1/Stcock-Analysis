@@ -8,6 +8,7 @@ This project aims to edit or refactor the code to loop through all the data one 
 # Results: 
 ## Stock performance between 2017 and 2018.
 First, we created a VBA script for 2017 stocks where all the stocks had positive return except TERP. Moreover, DQ return percentage was at the third place where Steve parents are interested to invest.
+
 <img width="235" alt="2017" src="https://user-images.githubusercontent.com/92646311/164845511-041a0b50-f6ee-4411-9d12-98aa6736c86f.png">
 
 Next, we created the VBA script for 2018 to further explore the stocks to see the difference in Return and Total Daily Volume between the two years. We can observe that RUN stocks had a significantly high Total Daily Volume and return in 2018 compared to 2017, which were still positive. The ENPH, Total Daily Volume increased, and the Return percentage slightly dropped, still had positive results.
@@ -15,12 +16,11 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 <img width="239" alt="2018" src="https://user-images.githubusercontent.com/92646311/164845563-89e59dfa-ef70-410a-8298-91163abbba66.png">
 
 ## Execution times of the original script and the refactored script.
-<img width="244" alt="PopUP_2017" src="<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164845674-5d607e5c-eddf-4d3e-917a-4447c9a1343f.png">
-https://user-images.githubusercontent.com/92646311/164845639-9bdc3171-1798-42c9-9f85-e993fb8e727f.png">
+### Orignal Script run Time for 2017
+
+<img width="244" alt="PopUP_2017" src="https://user-images.githubusercontent.com/92646311/164847825-8ea9cb9f-002a-4974-81a0-6897c780b833.png">
 
 
 
 
-
-![image](https://user-images.githubusercontent.com/92646311/164845265-ccf36c7d-14fc-4df9-8594-6bc77c64181a.png)
 
