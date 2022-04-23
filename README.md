@@ -16,11 +16,28 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 <img width="239" alt="2018" src="https://user-images.githubusercontent.com/92646311/164845563-89e59dfa-ef70-410a-8298-91163abbba66.png">
 
 ## Execution times of the original script and the refactored script.
-### Orignal Script run Time for 2017
+**Orignal Script run Time for 2017**
 
 <img width="244" alt="PopUP_2017" src="https://user-images.githubusercontent.com/92646311/164847825-8ea9cb9f-002a-4974-81a0-6897c780b833.png">
 
+**Orignal Script run Time for 2018**
+
+<img width="247" alt="PopUp_2018" src="https://user-images.githubusercontent.com/92646311/164851902-b742cb9a-ff32-445a-b53f-a259a1e09153.png">
+
+**Run time for Refactored code 2017**
+
+<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853298-dee62014-089e-4142-a6f8-f69cf6ad8a51.png">
+
+**Run time for Refactored code 2018**
+
+<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853693-a00059df-be63-4972-9702-f2ee80fc9d62.png">
+
+##Summary: 
+
+1.	What are the advantages or disadvantages of refactoring code?
 
 
+
+2.	How do these pros and cons apply to refactoring the original VBA script?
 
 
