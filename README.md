@@ -1,5 +1,5 @@
 # Stock-Analysis
-Analyzing stocks market, financial data by using VBA in Excel.
+Analyzing stocks market financial data by using VBA in Excel.
 
 # Overview of Project: 
 In this project, we are helping Steve, who’s just graduated with his finance degree. His parents will be his first client and are passionate about green energy stocks. Steve asked us to help him evaluate the all green energy stocks and DAQ stocks that his parents had planned to invest. 
@@ -26,25 +26,29 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 
 **Run time for Refactored code 2017**
 
-<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853298-dee62014-089e-4142-a6f8-f69cf6ad8a51.png">
+<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853298-de<img width="245" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/92646311/164984818-9f59f276-af8b-4f8d-9dac-4540e998c2bf.png">
+e62014-089e-4142-a6f8-f69cf6ad8a51.png">
 
 **Run time for Refactored code 2018**
 
-<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853693-a00059df-be63-4972-9702-f2ee80fc9d62.png">
+![Uploading VBA_Challenge_2018.png…]()
 
-##Summary: 
+# Summary 
 
 1.	What are the advantages or disadvantages of refactoring code?
 
 Adventages
 
 •	The best advantage of refactoring code is that it is executed more efficiently and makes programs run faster. 
+
 •	It makes the code clean, short, and more organized than the long lines of code. 
+
 •	It improves the code quality, decreases the chance of errors, and reduces the time needed to run analyses, especially if they need to be done repeatedly.
 
 Disadvantage
 
 •	It is intricate and problematic to deconstruct the code. Editing is complicated. 
+
 •	It is not easy and time-Consuming. 
 
 2.	How do these pros and cons apply to refactoring the original VBA script?
