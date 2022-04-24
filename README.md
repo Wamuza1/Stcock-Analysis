@@ -3,7 +3,8 @@ Analyzing stocks market financial data by using VBA in Excel.
 
 # Overview of Project: 
 In this project, we are helping Steve, who’s just graduated with his finance degree. His parents will be his first client and are passionate about green energy stocks. Steve asked us to help him evaluate the all green energy stocks and DAQ stocks that his parents had planned to invest. 
-Steve loved the workbook we prepared for him. He wants us to expand the dataset to include the entire stock market over the last few years. Although our code works well for dozen stocks, it might not work as well for thousands of stocks. Also, it may take a long time to execute. 
+Steve loved the workbook we prepared for him. He wants us to expand the dataset to include the entire stock market over the last few years. Although our code works well for dozen stocks, it might not work as well for thousands of stocks. Also, it may take a long time to execute.
+
 This project aims to edit or refactor the code to loop through all the data one time to collect the same information that we have already prepared for him in this project. Then, we determined whether refactoring code successfully made the VBA script for optimization. Using code to automate analyses allows Steve to reuse it with any stocks and reduces the chance of accidents, errors, and runtime.
 # Results: 
 ## Stock performance between 2017 and 2018.
@@ -16,6 +17,9 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 <img width="239" alt="2018" src="https://user-images.githubusercontent.com/92646311/164845563-89e59dfa-ef70-410a-8298-91163abbba66.png">
 
 ## Execution times of the original script and the refactored script.
+We can conclude by looking at the execution time of the orignal script run time that the refactoring code run time is more efficient/less. It will be helpful in analyzing thousands of rows of data.
+The initial code run time for 2017 is 0.4765625 and for 2018 is 0.4921875. Whereas the with the help of refactoring code the
+run time dropped 
 **Orignal Script run Time for 2017**
 
 <img width="244" alt="PopUP_2017" src="https://user-images.githubusercontent.com/92646311/164847825-8ea9cb9f-002a-4974-81a0-6897c780b833.png">
@@ -26,12 +30,15 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 
 **Run time for Refactored code 2017**
 
-<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164853298-de<img width="245" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/92646311/164984818-9f59f276-af8b-4f8d-9dac-4540e998c2bf.png">
-e62014-089e-4142-a6f8-f69cf6ad8a51.png">
+<img width="252" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92646311/164984880-53821149-8a4b-43ce-866f-553078be0a6b.png">
+
 
 **Run time for Refactored code 2018**
 
-![Uploading VBA_Challenge_2018.png…]()
+<img width="245" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/92646311/164984887-5539dca1-a974-4573-8595-164d5316d056.png">
+
+
+
 
 # Summary 
 
