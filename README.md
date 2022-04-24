@@ -17,9 +17,8 @@ Next, we created the VBA script for 2018 to further explore the stocks to see th
 <img width="239" alt="2018" src="https://user-images.githubusercontent.com/92646311/164845563-89e59dfa-ef70-410a-8298-91163abbba66.png">
 
 ## Execution times of the original script and the refactored script.
-We can conclude by looking at the execution time of the orignal script run time that the refactoring code run time is more efficient/less. It will be helpful in analyzing thousands of rows of data.
-The initial code run time for 2017 is 0.4765625 and for 2018 is 0.4921875. Whereas the with the help of refactoring code the
-run time dropped 
+We can conclude by looking at the execution time of the orignal script run time that the refactoring code run time is more efficient/less. 
+The initial code run time for 2017 is 0.4765625 and for 2018 is 0.4921875. With the help of refactoring, the new run time for 2017 is  0.109375, and for 2018 is 0.109375, which is faster than the original script. It will helpful in analyzing thousands of rows of data.
 **Orignal Script run Time for 2017**
 
 <img width="244" alt="PopUP_2017" src="https://user-images.githubusercontent.com/92646311/164847825-8ea9cb9f-002a-4974-81a0-6897c780b833.png">
@@ -42,7 +41,7 @@ run time dropped
 
 # Summary 
 
-1.	What are the advantages or disadvantages of refactoring code?
+**What are the advantages or disadvantages of refactoring code?**
 
 Adventages
 
@@ -58,7 +57,7 @@ Disadvantage
 
 •	It is not easy and time-Consuming. 
 
-2.	How do these pros and cons apply to refactoring the original VBA script?
+**How do these pros and cons apply to refactoring the original VBA script?**
 
 It optimizes the performance of the script and reduces the run time. It helps remove the complexions of the code and enhance the code's reliability. Code refactoring also helps remove vulnerabilities of the system. It removes bugs. There are possible chances that it goes wrong due to the complexity of the code, and you will have to spend more time solving the problem.
 
